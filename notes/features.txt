@@ -1,0 +1,1 @@
+Implement ability to visit directories recursively
